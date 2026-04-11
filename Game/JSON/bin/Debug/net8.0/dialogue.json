@@ -1,0 +1,36 @@
+﻿{
+  "Dialogues": [
+    {
+      "Speaker": "영희",
+      "Message": "안녕, 오늘 날씨 어때?"
+    },
+    {
+      "Speaker": "철수",
+      "Message": "정말 맑고 좋아!"
+    },
+    {
+      "Speaker": "영희",
+      "Message": "안녕, 오늘 날씨 어때?"
+    },
+    {
+      "Speaker": "철수",
+      "Message": "정말 맑고 좋아!"
+    },
+    {
+      "Speaker": "영희",
+      "Message": "안녕, 오늘 날씨 어때?"
+    },
+    {
+      "Speaker": "철수",
+      "Message": "정말 맑고 좋아!"
+    },
+    {
+      "Speaker": "영희",
+      "Message": "안녕, 오늘 날씨 어때?"
+    },
+    {
+      "Speaker": "철수",
+      "Message": "정말 맑고 좋아!"
+    }
+  ]
+}

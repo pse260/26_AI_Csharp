@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\bin\Debug\net8.0\DialogueSystem.exe
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\bin\Debug\net8.0\DialogueSystem.deps.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\bin\Debug\net8.0\DialogueSystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\bin\Debug\net8.0\DialogueSystem.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\bin\Debug\net8.0\DialogueSystem.pdb
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.sourcelink.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\refint\DialogueSystem.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.pdb
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\DialogueSystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\Dialogue　System\obj\Debug\net8.0\ref\DialogueSystem.dll

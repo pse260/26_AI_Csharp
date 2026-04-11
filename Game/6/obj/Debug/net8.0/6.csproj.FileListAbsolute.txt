@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\bin\Debug\net8.0\6.exe
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\bin\Debug\net8.0\6.deps.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\bin\Debug\net8.0\6.runtimeconfig.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\bin\Debug\net8.0\6.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\bin\Debug\net8.0\6.pdb
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.sourcelink.json
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\refint\6.dll
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.pdb
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\26PSE\26_AI_Csharp\Game\6\obj\Debug\net8.0\ref\6.dll

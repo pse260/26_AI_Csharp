@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58DE279C-BECD-495B-AF6B-C507EE26E5F9}|4\\4..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58DE279C-BECD-495B-AF6B-C507EE26E5F9}|4\\4..csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{330A195D-FF90-462E-83EB-137DCD8F02CC}|41\\41.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\41\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330A195D-FF90-462E-83EB-137DCD8F02CC}|41\\41.csproj|solutionrelative:41\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58DE279C-BECD-495B-AF6B-C507EE26E5F9}|4\\4..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\4\\4..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{58DE279C-BECD-495B-AF6B-C507EE26E5F9}|4\\4..csproj|solutionrelative:4\\4..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{330A195D-FF90-462E-83EB-137DCD8F02CC}|41\\41.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330A195D-FF90-462E-83EB-137DCD8F02CC}|41\\41.csproj|solutionrelative:41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B7EB14B-0DFA-454B-9A19-0C6B96BFB926}|1\\1..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\1\\1..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B7EB14B-0DFA-454B-9A19-0C6B96BFB926}|1\\1..csproj|solutionrelative:1\\1..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EACB932F-E693-4CBF-AA7A-A2FE8F07B5FA}|42\\42.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACB932F-E693-4CBF-AA7A-A2FE8F07B5FA}|42\\42.csproj|solutionrelative:42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1C73E14-F2DF-4AB5-964B-90C6B1A5D73A}|2\\2..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\2\\2..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1C73E14-F2DF-4AB5-964B-90C6B1A5D73A}|2\\2..csproj|solutionrelative:2\\2..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AEA2F44D-455D-4D13-89EB-84CBE7B36392}|6\\6.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\6\\6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEA2F44D-455D-4D13-89EB-84CBE7B36392}|6\\6.csproj|solutionrelative:6\\6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{259A558B-CDAF-4977-B54B-38117EC5C094}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{259A558B-CDAF-4977-B54B-38117EC5C094}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EACB932F-E693-4CBF-AA7A-A2FE8F07B5FA}|42\\42.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\42\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACB932F-E693-4CBF-AA7A-A2FE8F07B5FA}|42\\42.csproj|solutionrelative:42\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{985AEE40-C873-4DC8-ABE5-A0DFAB0BF04D}|3\\3..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{985AEE40-C873-4DC8-ABE5-A0DFAB0BF04D}|3\\3..csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\json\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|solutionrelative:json\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{985AEE40-C873-4DC8-ABE5-A0DFAB0BF04D}|3\\3..csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\3\\3..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{985AEE40-C873-4DC8-ABE5-A0DFAB0BF04D}|3\\3..csproj|solutionrelative:3\\3..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{259A558B-CDAF-4977-B54B-38117EC5C094}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{259A558B-CDAF-4977-B54B-38117EC5C094}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|c:\\users\\administrator\\desktop\\26pse\\26_ai_csharp\\game\\json\\json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2367B54-F8D1-4E2E-A1B5-E60D0CB634E6}|JSON\\JSON.csproj|solutionrelative:json\\json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,105 +66,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\4\\Program.cs",
-              "RelativeDocumentMoniker": "4\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\4\\Program.cs",
-              "RelativeToolTip": "4\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowCcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T08:09:53.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4..csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\4\\4..csproj",
-              "RelativeDocumentMoniker": "4\\4..csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\4\\4..csproj",
-              "RelativeToolTip": "4\\4..csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-04T07:48:05.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\3\\Program.cs",
-              "RelativeDocumentMoniker": "3\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\3\\Program.cs",
-              "RelativeToolTip": "3\\Program.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAswHMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T08:08:46.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "3..csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\3\\3..csproj",
-              "RelativeDocumentMoniker": "3\\3..csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\3\\3..csproj",
-              "RelativeToolTip": "3\\3..csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-04T06:55:13.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2..csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\2\\2..csproj",
-              "RelativeDocumentMoniker": "2\\2..csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\2\\2..csproj",
-              "RelativeToolTip": "2\\2..csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-04T06:42:40.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-04T06:35:49.463Z",
+              "Title": "Datas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\42\\Datas.cs",
+              "RelativeDocumentMoniker": "42\\Datas.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\42\\Datas.cs",
+              "RelativeToolTip": "42\\Datas.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T08:05:02.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1..csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\1\\1..csproj",
-              "RelativeDocumentMoniker": "1\\1..csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\1\\1..csproj",
-              "RelativeToolTip": "1\\1..csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\42\\Program.cs",
+              "RelativeDocumentMoniker": "42\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\42\\Program.cs",
+              "RelativeToolTip": "42\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T08:04:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\41\\Datas.cs",
+              "RelativeDocumentMoniker": "41\\Datas.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\41\\Datas.cs",
+              "RelativeToolTip": "41\\Datas.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA9wHoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T08:01:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\41\\Program.cs",
+              "RelativeDocumentMoniker": "41\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\41\\Program.cs",
+              "RelativeToolTip": "41\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T08:00:59.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\6\\6.csproj",
+              "RelativeDocumentMoniker": "6\\6.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\6\\6.csproj",
+              "RelativeToolTip": "6\\6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-04T06:34:32.472Z",
+              "WhenOpened": "2026-04-11T07:45:10.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "Title": "JSON",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\JSON.csproj",
+              "RelativeDocumentMoniker": "JSON\\JSON.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\JSON.csproj",
+              "RelativeToolTip": "JSON\\JSON.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T07:34:00.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\Datas.cs",
+              "RelativeDocumentMoniker": "JSON\\Datas.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\Datas.cs",
+              "RelativeToolTip": "JSON\\Datas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T06:34:52.647Z"
+              "WhenOpened": "2026-04-11T07:22:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\Program.cs",
+              "RelativeDocumentMoniker": "JSON\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\26PSE\\26_AI_Csharp\\Game\\JSON\\Program.cs",
+              "RelativeToolTip": "JSON\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T07:10:25.339Z",
+              "EditorCaption": ""
             }
           ]
         },
